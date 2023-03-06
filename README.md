@@ -1,4 +1,4 @@
-## 👋 Hi, I am Json Haku
+## 👋 Hi, Welcome to github account.
 
 I am a full-stack engineer and have experienced developing Dex, DeFi, DApps, Trading Bots and autonomous system and aritificial intelligence.
 I'm also keen on Python and JavaScript frameworks like React, Vue and Django.
