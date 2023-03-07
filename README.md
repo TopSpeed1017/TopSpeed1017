@@ -1,13 +1,11 @@
-lines (16 sloc)  927 Bytes
-
 <h1 align="center">Full Stack Developer with Blockchain Experience</h1>
 
-![](https://komarev.com/ghpvc/?username=crazysupercoder&label=VISITORS&color=green)
+![](https://komarev.com/ghpvc/?username=AngrySusanoo&label=VISITORS&color=green)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const crazysupercoder = {
+const AngrySusanoo = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Java, Python, C#, PHP, Solidity, Rust],
   frontendTools: [React, Redux, Angular, Vue, NextJS],
