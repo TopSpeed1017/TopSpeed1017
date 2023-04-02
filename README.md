@@ -18,3 +18,8 @@ const AngrySusanoo = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TO3IC&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TO3IC&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TO3IC&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
