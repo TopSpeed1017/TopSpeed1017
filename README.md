@@ -9,12 +9,12 @@ I am confident of speed and quality in frontend and backend.
 ```javascript
 const AngrySusanoo = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Java, Python, C#, PHP, Solidity, Rust],
+  code: [Javascript, Typescript, HTML, CSS, Java, Python, C#, PHP, Solidity, Rust, FunC],
   frontendTools: [React, Redux, Angular, Vue, NextJS],
   backendTools: [SpringBoot, Express, ASP.NET, Djanog, Laravel],
   cloudServices: ["AWS", "Microsoft Azure"],
-  chains: ["Ethereum", "Binance", "Polygon", "Avalanche", "Solana"],
-  dApps: ["Dex", "NFT", "LaunchPad", "P2E", "DeFi"]
+  chains: ["Ethereum", "Binance", "Polygon", "Avalanche", "Solana", "EOSIO", "TON"],
+  dApps: ["Dex", "NFT", "LaunchPad", "P2E", "DeFi", "Presale"]
 }
 ```
 
